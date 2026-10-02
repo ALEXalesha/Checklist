@@ -4,10 +4,10 @@
 
 **Чек-лист для Windows: список с галочками, комментарий к каждому пункту, тёмная тема. Каждый список - отдельный файл `.json`.**
 
-[Скачать для Windows](https://github.com/ALEXalesha/CheckProg/releases/latest) &nbsp;·&nbsp; [English version of this file](README.md)
+[Скачать для Windows](https://github.com/ALEXalesha/Checklist/releases/latest) &nbsp;·&nbsp; [English version of this file](README.md)
 
-[![CI](https://github.com/ALEXalesha/CheckProg/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/CheckProg/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/ALEXalesha/CheckProg?color=16a34a)](https://github.com/ALEXalesha/CheckProg/releases/latest)
+[![CI](https://github.com/ALEXalesha/Checklist/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/Checklist/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/ALEXalesha/Checklist?color=16a34a)](https://github.com/ALEXalesha/Checklist/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <img src="docs/screenshots/window-light.png" width="620" alt="Окно CheckProg">

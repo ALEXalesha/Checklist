@@ -4,10 +4,10 @@
 
 **A checklist for Windows: tick items off, keep a note on any of them, follow the system dark theme. Every list is a plain `.json` file of its own.**
 
-[Download for Windows](https://github.com/ALEXalesha/CheckProg/releases/latest) &nbsp;·&nbsp; [Русская версия этого файла](README.ru.md)
+[Download for Windows](https://github.com/ALEXalesha/Checklist/releases/latest) &nbsp;·&nbsp; [Русская версия этого файла](README.ru.md)
 
-[![CI](https://github.com/ALEXalesha/CheckProg/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/CheckProg/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/ALEXalesha/CheckProg?color=16a34a)](https://github.com/ALEXalesha/CheckProg/releases/latest)
+[![CI](https://github.com/ALEXalesha/Checklist/actions/workflows/ci.yml/badge.svg)](https://github.com/ALEXalesha/Checklist/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/ALEXalesha/Checklist?color=16a34a)](https://github.com/ALEXalesha/Checklist/releases/latest)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 <img src="docs/screenshots/window-light.png" width="620" alt="CheckProg window">
