@@ -14,6 +14,9 @@
 
 </div>
 
+[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+Code, tests and docs are written by Claude (Anthropic) in Claude Code. Ideas, testing and decisions - Alexey.
+
 > **The interface is in Russian**, and so is the user guide in [README.ru.md](README.ru.md). In the screenshot, "Выполнено: 2 из 9" means "done: 2 of 9", "Комментарий к…" is the note panel and "Добавить" is the add button.
 
 ## What it is

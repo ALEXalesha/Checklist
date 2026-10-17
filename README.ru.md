@@ -14,6 +14,9 @@
 
 </div>
 
+[![Built with Claude Code](https://img.shields.io/badge/Built_with-Claude_Code-D97757?logo=claude&logoColor=white)](https://claude.com/claude-code)
+Код, тесты и документация этого проекта написаны Claude (Anthropic) в Claude Code. Идеи, проверка и решения - Алексей.
+
 Простая программа-чек-лист для Windows 10 и 11. Впишите названия пунктов и отмечайте галочкой то, что уже сделано. Каждый список хранится в отдельном файле `.json`, так что можно держать разные списки: покупки, дела на неделю, вещи в поездку.
 
 Есть два варианта:
