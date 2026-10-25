@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/icon.png" width="96" alt="">
+
 # CheckProg
 
 **A checklist for Windows: tick items off, keep a note on any of them, follow the system dark theme. Every list is a plain `.json` file of its own.**

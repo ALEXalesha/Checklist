@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="docs/icon.png" width="96" alt="">
+
 # CheckProg
 
 **Чек-лист для Windows: список с галочками, комментарий к каждому пункту, тёмная тема. Каждый список - отдельный файл `.json`.**
