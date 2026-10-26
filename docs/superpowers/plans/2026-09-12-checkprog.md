@@ -4,7 +4,7 @@
 
 **Цель:** чек-лист для Windows на Tkinter с portable-сборкой, установщиком и документацией.
 
-**Архитектура:** модель `Checklist` (чистый Python, без tkinter) — единственный источник истины. Окно `App` после каждой операции синхронизирует `ttk.Treeview` с моделью. Пути к настройкам зависят от того, есть ли рядом с exe файл `portable.flag`.
+**Архитектура:** модель `Checklist` (чистый Python, без tkinter) - единственный источник истины. Окно `App` после каждой операции синхронизирует `ttk.Treeview` с моделью. Пути к настройкам зависят от того, есть ли рядом с exe файл `portable.flag`.
 
 **Стек:** Python 3.13, tkinter/ttk, unittest, PyInstaller 6, Inno Setup 6.
 
@@ -43,7 +43,7 @@
 
 - [x] `build.ps1`: тесты, затем PyInstaller (`--onefile --windowed`), затем папка `dist\CheckProg-Portable` (exe, `portable.flag`, README) и zip, затем ISCC с `/DAppVersion`.
 - [x] Запустить `powershell -File packaging\build.ps1`. Ожидается: `dist\CheckProg-<версия>-Portable.zip` и `dist\CheckProg-<версия>-Setup.exe`.
-- [x] Проверить собранный exe: в portable-режиме `settings.json` появляется рядом с exe, без маркера — в `%APPDATA%\CheckProg`.
+- [x] Проверить собранный exe: в portable-режиме `settings.json` появляется рядом с exe, без маркера - в `%APPDATA%\CheckProg`.
 - [x] Коммит `build: portable zip and Inno Setup installer`.
 
 ### Задача 5: документация
